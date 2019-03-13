@@ -9,7 +9,7 @@ A queen can attack another if it is in the same row, column, or diagonal.
 ## Instructions
 
 * You have **75 mins** to complete the problem.
-* If you choose to use git, please fork this directory, else please email your solution to development@dynamic1group.com as a ZIP file labelled in the following format: <firstname-lastname-date>.zip
+* If you choose to use git, please fork this directory, else please email your solution to development@dynamic1group.com as a ZIP file labelled in the following format: firstname-lastname-date.zip. The **subject** of the email should be: **Developer Assessment Solution - Firstname Lastname**
 
 ### Bonus Question
 
